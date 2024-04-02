@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buckets/static/css/main.cbf56638.css",
+    "main.js": "/buckets/static/js/main.37eea7ee.js",
+    "static/js/453.551b5df5.chunk.js": "/buckets/static/js/453.551b5df5.chunk.js",
+    "static/media/ofont.ru_Montserrat Alternates.ttf": "/buckets/static/media/ofont.ru_Montserrat Alternates.9e32cee38e5268e05e87.ttf",
+    "index.html": "/buckets/index.html",
+    "main.cbf56638.css.map": "/buckets/static/css/main.cbf56638.css.map",
+    "main.37eea7ee.js.map": "/buckets/static/js/main.37eea7ee.js.map",
+    "453.551b5df5.chunk.js.map": "/buckets/static/js/453.551b5df5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf56638.css",
+    "static/js/main.37eea7ee.js"
+  ]
+}
