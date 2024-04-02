@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Montserrat Alternates";
+  src: url("fonts/ofont.ru_Montserrat Alternates.ttf");
+  font-weight: normal;
+  font-style: normal;
+  
+}
+.container {
+  width: 1000px;
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: space-evenly
+
+
+  
+}
+
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  font-family: "Montserrat Alternates";
+}
+
+.wrap {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  text-transform: uppercase;
+  font-size: 30px;
+  margin: 42px 0 32px;
+  z-index: 1;
+  text-align: center;
+ 
+}
+
+@media (max-width: 800px) {
+  .heading {
+    margin: 15px 0;
+    font-size: 35px;
+  }
+}
